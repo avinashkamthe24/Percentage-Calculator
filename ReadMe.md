@@ -27,7 +27,7 @@ A simple web application that calculates percentages.
 
 ## Author
 
-* [Your Name]
+* Avinash Kamthe
 
 ## License
 
