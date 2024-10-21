@@ -1,7 +1,7 @@
 # Percentage Calculator
 =======================
 
-A simple web application that calculates percentages.
+A simple web-based percentage calculator built with HTML, CSS, and JavaScript. This tool allows users to input a number and a percentage, and then calculates the percentage of that number.
 
 ## Features
 
